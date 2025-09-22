@@ -1,0 +1,1 @@
+alert("Привет мир, это JavaScript, код из файла main.js")
