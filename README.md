@@ -8,7 +8,7 @@
 #### 15 уроков.
 ### 01 Вводное приветствие.
 ### 02 Где писать код JavaScript?
-##### Писать код JavaScript можно в html файле, внутрь тэга <script></script>, и в файле JavaScript c расширением .js
+Писать код JavaScript можно в html файле, внутрь тэга <script></script>, и в файле JavaScript c расширением .js
 ```html
 <!DOCTYPE html>
 <html lang="en">
