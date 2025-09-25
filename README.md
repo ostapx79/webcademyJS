@@ -54,6 +54,26 @@ if (age >= 18) {
 }
 ```
 ### 05 Переменные в JavaScript
+```javascript
+// файл javascript script.js
+// Переменные в JavaScrip
+
+// Integer
+var x = 5; // целое число
+
+// String
+var text = "Привет, это строковая переменная."; // строка
+
+// Boolean
+var logicTrue = true; // Правда, 1
+var logicFalse = false; // Ложь, 0
+
+// вывод на консоль переменные описанные выше
+console.log(x);
+console.log(text);
+console.log(logicTrue);
+console.log(logicFalse);
+```
 ### 06 Арифметические операции над переменными
 ### 07 Условия в JavaScript
 ### 08 Конструкций Switch Case
