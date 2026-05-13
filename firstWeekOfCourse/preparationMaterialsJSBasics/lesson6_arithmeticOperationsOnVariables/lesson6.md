@@ -1,3 +1,5 @@
+### Арифметические операции над переменными
+```javascript
 // арифметические операции над переменными
 // переменная x cо значением 5
 var x = 5;
@@ -48,3 +50,4 @@ var firstBool = true;
 var secondBool = true;
 // результат будет 2
 console.log(firstBool + secondBool)
+```
