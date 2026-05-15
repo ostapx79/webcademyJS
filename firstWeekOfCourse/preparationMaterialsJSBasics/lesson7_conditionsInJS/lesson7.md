@@ -1,3 +1,5 @@
+### Условия в JavaScript
+```javascript
 // Условия в javascript
 
 var a = 12;
@@ -18,3 +20,4 @@ if (age < 18 || age > 60) {
    // выводим на консоль
    console.log("Вам меньше 18, или больше.")
 }
+```
