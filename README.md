@@ -172,6 +172,16 @@ if (age < 18 || age > 60) {
 ### 01 Книга. Рекомендуется к ознакомлению
 ![Изображение](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/8713ab941e64b60f2f83549e760566f7.jpg/s/s1200x/a/17633/sc/22 "Логотип Книги")
 #### Джон Дакетт Javascript и jQuery. Интерактивная веб-разработка.
+### Дополнительная литература
+#### 01 книга
+![Изображение](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/1a71c6f75b211c25af0d5b862e564d00.jpg/s/s1200x/a/17633/sc/127 "Логотип Книги")
+#### Дэвид Флэнаган -  JavaScript.
+#### 02 книга
+![Изображение](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/729d77b30ab5e33784f8bca3be9859e3.jpg/s/s1200x/a/17633/sc/212 "Логотип Книги")
+#### Выразительный JavaScript.
+#### 03 книга
+![Изображение](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/f443df94bfb51a15d1f918ca36c23090.jpg/s/s1200x/a/17633/sc/186 "Логотип Книги")
+#### Морган Н. JavaScript для детей.
 
 ### Редактор кода Visual studio code
 #### 3 урока.
