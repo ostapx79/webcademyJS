@@ -182,6 +182,3 @@ if (age < 18 || age > 60) {
 #### 03 книга
 ![Изображение](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/f443df94bfb51a15d1f918ca36c23090.jpg/s/s1200x/a/17633/sc/186 "Логотип Книги")
 #### Морган Н. JavaScript для детей.
-
-### Редактор кода Visual studio code
-#### 3 урока.
