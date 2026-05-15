@@ -134,13 +134,17 @@ console.log(firstBool + secondBool)
 ```javascript
 // Условия в javascript
 
+// объявляем переменную по имени a
 var a = 12;
 
 if (a > 10) {
+   // вывод результата на консоль
    console.log("а больше 12");
 } else if (a == 10) {
+   // вывод результата на консоль
    console.log("а равно 10");
 } else {
+   // вывод результата на консоль
    console.log("а меньше 12");
 }
 
