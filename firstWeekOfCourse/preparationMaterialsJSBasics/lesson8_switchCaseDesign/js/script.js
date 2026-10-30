@@ -14,3 +14,15 @@ switch (mark) {
         console.log("Такой оценки не существует!");
 }
 
+var number = 100;
+switch (true) {
+    case number > 18 && number < 30:
+        console.log("number > 18 и < 30");
+        break;
+    case number > 50 && number < 70:
+        console.log("number > 50 и < 70");
+        break;
+    default:
+        console.log("default value");
+}
+
