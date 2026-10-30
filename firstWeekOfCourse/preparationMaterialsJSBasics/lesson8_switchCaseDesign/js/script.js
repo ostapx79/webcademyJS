@@ -5,7 +5,7 @@ switch (mark) {
         console.log("Отлично! Хорошая работа!");
         break;
     case 4:
-        console.log("Хороший рузушьтат!");
+        console.log("Хороший результат!");
         break;
     case 3:
         console.log("Можно было и лучше!");
