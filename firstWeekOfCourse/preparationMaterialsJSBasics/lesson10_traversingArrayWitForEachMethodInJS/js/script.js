@@ -1,5 +1,5 @@
 var fruits = ["Banana", "Apple", "Peach", "Pineapple", "Chery"];
 
-fruits.fill((item, index) => {
+fruits.forEach((item, index) => {
     console.log(`Элемент ${item} имеет индекс ${index}`);
 });
