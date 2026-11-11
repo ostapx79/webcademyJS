@@ -193,6 +193,11 @@ fruits.forEach((item, index) => {
 });
 ```
 ### 11 Цикл for в JavaScript
+```javascript
+for (var i = 0; i < 10; i++) {
+    console.log(`Элемент цикла ${i}`);
+}
+```
 ### 12 Обход массива циклом for в JavaScript
 ### 13 Функции в JavaScript
 ### 14 Объекты в JavaScript
