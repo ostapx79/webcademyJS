@@ -193,11 +193,11 @@ fruits.forEach((item, index) => {
 });
 ```
 ### 11 Цикл for в JavaScript
-[Переходим к скрипту JavaScript](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson11_forLoopInJS/lesson11.md)
+* Переходим к скрипту JavaScript, [на GitHub](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson11_forLoopInJS/lesson11.md).
 ### 12 Обход массива циклом for в JavaScript
-[Переходим к скрипту JavaScript](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson12_loopingArrayWithForLoopInJS/lesson12.md)
+* Переходим к скрипту JavaScript, [на GitHub](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson12_loopingArrayWithForLoopInJS/lesson12.md).
 ### 13 Методы массивов в JavaScript
-[Переходим к скрипту JavaScript](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson13_arrayMethods/lesson13.md)
+* Переходим к скрипту JavaScript, [на GitHub](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson13_arrayMethods/lesson13.md).
 ### 14 Объекты в JavaScript
 ### 15 Команды alert, confirm и prompt в JavaScript
 ##### "В каждой директории с уроком, буду добавлять .md файл с js кодом, для понимания, что делается в уроке"
