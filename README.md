@@ -209,7 +209,7 @@ for (var i = 1; i <= numbers.length; i++) {
 }
 ```
 ### 13 Методы массивов в JavaScript
-[скрипт JavaScript](lesson13_arrayMethods/lesson13.md)
+[скрипт JavaScript](blob/main/firstWeekOfCourse/preparationMaterialsJSBasics/lesson13_arrayMethods/lesson13.md)
 ### 14 Объекты в JavaScript
 ### 15 Команды alert, confirm и prompt в JavaScript
 ##### "В каждой директории с уроком, буду добавлять .md файл с js кодом, для понимания, что делается в уроке"
