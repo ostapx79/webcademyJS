@@ -8,3 +8,4 @@ for (var i = 1; i <= numbers.length; i++) {
     console.log(`number: ${i}`);
 }
 ```
+###### Объяснения будут позже добавлены

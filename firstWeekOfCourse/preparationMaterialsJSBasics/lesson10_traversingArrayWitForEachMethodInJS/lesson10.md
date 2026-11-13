@@ -8,3 +8,5 @@ fruits.forEach((item, index) => {
     console.log(`Элемент ${item} имеет индекс ${index}`);
 });
 ```
+
+###### Объяснения будут позже добавлены
