@@ -183,31 +183,9 @@ var fruits = ["Banana", "Apple", "Peach", "Orange", "Pineapple", "Chery"];
 console.log(fruits)
 ```
 ### 10 Обход массива методом for each в JavaScript
-```javascript
-// Создаем массв
-var fruits = ["Banana", "Apple", "Peach", "Pineapple", "Chery"];
-
-// Обход массива функции forEach
-fruits.forEach((item, index) => {
-    console.log(`Элемент ${item} имеет индекс ${index}`);
-});
-```
-### 11 Цикл for в JavaScript
-```javascript
-for (var i = 0; i < 10; i++) {
-    console.log(`Элемент цикла ${i}`);
-}
-```
+[скрипт JavaScript](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson11_forLoopInJS/lesson11.md)
 ### 12 Обход массива циклом for в JavaScript
-```javascript
-// Создаем массив.
-var numbers = [1, 2, 3, 4, 5, 6];
-
-// И обходим массив циклом for.
-for (var i = 1; i <= numbers.length; i++) {
-    console.log(`number: ${i}`);
-}
-```
+[скрипт JavaScript](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson12_loopingArrayWithForLoopInJS/lesson12.md)
 ### 13 Методы массивов в JavaScript
 [скрипт JavaScript](/firstWeekOfCourse/preparationMaterialsJSBasics/lesson13_arrayMethods/lesson13.md)
 ### 14 Объекты в JavaScript
