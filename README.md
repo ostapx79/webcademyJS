@@ -208,7 +208,8 @@ for (var i = 1; i <= numbers.length; i++) {
     console.log(`number: ${i}`);
 }
 ```
-### 13 Функции в JavaScript
+### 13 Методы массивов в JavaScript
+[скрипт JavaScript](./lesson13/lesson13.md)
 ### 14 Объекты в JavaScript
 ### 15 Команды alert, confirm и prompt в JavaScript
 ##### "В каждой директории с уроком, буду добавлять .md файл с js кодом, для понимания, что делается в уроке"
